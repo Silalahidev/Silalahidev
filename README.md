@@ -17,7 +17,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silalahidev&show_icons=true)  
 
 ---
 
