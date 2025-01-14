@@ -10,13 +10,9 @@
 ---
 
 ### 🛠️ My Toolkit  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)       ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 ---
