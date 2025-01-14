@@ -2,48 +2,6 @@
 ### 🚀 Data Enthusiast | IT Enthusiast  
 
 ![Header Animation](https://example.com/your-animation.gif)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typing Animation</title>
-    <style>
-        /* Basic styling */
-        body {
-            font-family: 'Courier New', Courier, monospace;
-            background-color: #282c34;
-            color: #fff;
-            text-align: center;
-            margin-top: 50px;
-        }
-        
-        /* Animation styling */
-        .typewriter {
-            display: inline-block;
-            font-size: 2em;
-            border-right: 0.1em solid #fff;
-            padding-right: 0.1em;
-            animation: typing 3.5s steps(30) 1s 1 normal both, blinkCaret 0.75s step-end infinite;
-        }
-
-        /* Typing effect */
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 18em; }
-        }
-
-        /* Cursor blink effect */
-        @keyframes blinkCaret {
-            50% { border-color: transparent; }
-        }
-    </style>
-</head>
-<body>
-    <div class="typewriter">Data Enthusiast</div>
-</body>
-</html>
-
 
 - 🌱 Currently exploring data analytics and visualization.  
 - 💻 Building a strong personal portfolio in data and IT.  
