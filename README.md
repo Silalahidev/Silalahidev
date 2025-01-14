@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Silalahidev
-- 👀 I’m interested in world programming/IT 
-- 🌱 I’m currently learning language program
-- 💞️ I’m looking to collaborate on github
-- ⚡ Fun fact:
-    1.I like playing football, but I don't have skill it
-    2. I don't like eat eggs
+# Hi, I'm Jadihot Silalahi 👋  
+### 🚀 Data Enthusiast | IT Enthusiast  
 
-<!---
-Silalahidev/Silalahidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Header Animation](https://example.com/your-animation.gif)
+
+- 🌱 Currently exploring data analytics and visualization.  
+- 💻 Building a strong personal portfolio in data and IT.  
+- 🎯 Ambition: Becoming a leader in data-centric innovation.  
+
+---
+
+### 🛠️ My Toolkit  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)  
+
+---
+
+### 💬 Let's Connect  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/dataspectx)  
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/jadihot_1)
