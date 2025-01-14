@@ -24,8 +24,13 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silalahidev&show_icons=true)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=silalahidev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=silalahidev&theme=dark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Jadihot's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=silalahidev&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
 ### 💬 Let's Connect  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/dataspectx)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jadihot_)  
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/jadihot_1)
