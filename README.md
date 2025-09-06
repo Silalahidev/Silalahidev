@@ -1,4 +1,4 @@
-# Hi, I'm Jadihot Silalahi 👋  
+# Hi, I'm Jadihot Silalahi 
 ### Data Scientist | Data Enthusiast  
 
 ![Header Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJpN3R5MDl5NTZrM3p4aHh6bXlwNng2bThydXpyc3Rpbm5xOTU5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.gif)
